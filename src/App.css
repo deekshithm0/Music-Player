@@ -8,7 +8,7 @@ body{
 }
 
 .header{
-  @apply w-full h-[10%] bg-yellow-500
+  @apply w-full h-[10%] bg-yellow-500 flex items-center
 }
 .container{
   @apply w-full  bg-orange-500 
