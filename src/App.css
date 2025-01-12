@@ -1,0 +1,10 @@
+
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.App{
+  @apply w-screen h-screen bg-red-500 flex items-center justify-center
+}
