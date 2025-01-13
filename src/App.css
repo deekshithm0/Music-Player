@@ -1,28 +1,30 @@
 body{
   margin: 0;
   padding: 0;
+  color: gainsboro;
 }
 
 .App{
-  @apply w-screen h-screen bg-red-500 items-center justify-center flex flex-col
+  @apply w-screen h-screen bg-blue-950 items-center justify-center flex flex-col
 }
 
 .header{
-  @apply w-full h-[10%] bg-yellow-500 flex items-center
+  @apply w-full h-[10%] flex items-center
 }
-.container{
-  @apply w-full  bg-orange-500 
+
+/* .container{
+  @apply w-full 
 }
 
 .song-details{
-  @apply bg-violet-300 
+  @apply 
 }
 .lyrics-display{
-  @apply bg-blue-500 
+  @apply  
 }
 .progressbar{
-  @apply bg-zinc-400 
+  @apply  
 }
 .player-controls{
-  @apply bg-pink-600 
-}
+  @apply 
+} */
