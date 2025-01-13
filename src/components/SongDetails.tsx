@@ -1,6 +1,7 @@
 
 
-const SongDetails = ({ song }) => {
+const SongDetails: React.FC<{ song: any }> = ({ song }) => {
+  if (!song) return null;
   return (
     <div className='h-full w-full xs:mx-6 md:m-2 rounded-3xl  bg-white bg-opacity-5 shadow-xl flex flex-col items-center'>
       <div key={song.id} className=' h-[80%]'>

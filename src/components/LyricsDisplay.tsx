@@ -1,6 +1,6 @@
 
 
-const LyricsDisplay = ({lyrics}) => {
+const LyricsDisplay: React.FC<{ lyrics: any }> = ({ lyrics }) => {
   console.log()
   return (
     <div className="flex items-center justify-center p-4">

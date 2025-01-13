@@ -8,7 +8,10 @@ import { faDownload } from '@fortawesome/free-solid-svg-icons'
 import { faHeart } from '@fortawesome/free-solid-svg-icons'
 import { faChevronDown } from '@fortawesome/free-solid-svg-icons'
 
-const PlayerControls = ({ onNext, onPrevious }) => {
+const PlayerControls: React.FC<{ onNext: any; onPrevious: any }> = ({
+  onNext,
+  onPrevious
+}) => {
   return (
     <div className='w-full flex flex-col items-center justify-center xs:gap-8 xs:pt-5 md:pt-10'>
       <div className='w-full flex justify-evenly'>
