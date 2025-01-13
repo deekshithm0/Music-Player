@@ -1,73 +1,72 @@
 [
-    {
-      "id": 1,
-      "title": "So Am I",
-      "artist": "Ava Max",
-      "lyrics": "I am what I am, I don't care what you think...",
-      "imageUrl": "./images/soami.jpeg"
-    },
-    {
-      "id": 2,
-      "title": "Blinding Lights",
-      "artist": "The Weeknd",
-      "lyrics": "I've been tryna call, I've been on my own for long enough...",
-      "imageUrl": "./images/blindinglights.jpeg"
-    },
-    {
-      "id": 3,
-      "title": "Shape of You",
-      "artist": "Ed Sheeran",
-      "lyrics": "I'm in love with the shape of you, we push and pull like a magnet do...",
-      "imageUrl": "./images/shapeofyou.jpeg"
-    },
-    {
-      "id": 4,
-      "title": "Levitating",
-      "artist": "Dua Lipa",
-      "lyrics": "You want me, I want you, baby, my sugar boo...",
-      "imageUrl": "./images/levitating.jpeg"
-    },
-    {
-      "id": 5,
-      "title": "Bad Guy",
-      "artist": "Billie Eilish",
-      "lyrics": "So you're a tough guy, like it really rough guy...",
-      "imageUrl": "./images/badguy.jpeg"
-    },
-    {
-      "id": 6,
-      "title": "Dance Monkey",
-      "artist": "Tones and I",
-      "lyrics": "'Cause I see you trying, just keep on trying...",
-      "imageUrl": "./images/dancemonkey.jpeg"
-    },
-    {
-      "id": 7,
-      "title": "Watermelon Sugar",
-      "artist": "Harry Styles",
-      "lyrics": "'Tastes like strawberries on a summer evening...",
-      "imageUrl": "./images/watermelonsugar.jpeg"
-    },
-    {
-      "id": 8,
-      "title": "Peaches",
-      "artist": "Justin Bieber",
-      "lyrics": "'I got my peaches out in Georgia, I get my weed from California...",
-      "imageUrl": "./images/peaches.jpeg"
-    },
-    {
-      "id": 9,
-      "title": "Good 4 U",
-      "artist": "Olivia Rodrigo",
-      "lyrics": "'Good for you, I guess you moved on really easily...",
-      "imageUrl": "./images/good4u.jpeg"
-    },
-    {
-      "id": 10,
-      "title": "Montero (Call Me By Your Name)",
-      "artist": "Lil Nas X",
-      "lyrics": "'Call me when you want, call me when you need...",
-      "imageUrl": "./images/montero.jpeg"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "So Am I",
+    "artist": "Ava Max",
+    "lyrics": "I am what I am, I don't care what you think...",
+    "imageUrl": "./images/soami.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "lyrics": "I've been tryna call, I've been on my own for long enough...",
+    "imageUrl": "./images/blindinglights.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "lyrics": "I'm in love with the shape of you, we push and pull like a magnet do...",
+    "imageUrl": "./images/soami.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Levitating",
+    "artist": "Dua Lipa",
+    "lyrics": "You want me, I want you, baby, my sugar boo...",
+    "imageUrl": "./images/blindinglights.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Bad Guy",
+    "artist": "Billie Eilish",
+    "lyrics": "So you're a tough guy, like it really rough guy...",
+    "imageUrl": "./images/soami.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Dance Monkey",
+    "artist": "Tones and I",
+    "lyrics": "'Cause I see you trying, just keep on trying...",
+    "imageUrl": "./images/blindinglights.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "Watermelon Sugar",
+    "artist": "Harry Styles",
+    "lyrics": "'Tastes like strawberries on a summer evening...",
+    "imageUrl": "./images/soami.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Peaches",
+    "artist": "Justin Bieber",
+    "lyrics": "'I got my peaches out in Georgia, I get my weed from California...",
+    "imageUrl": "./images/blindinglights.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "Good 4 U",
+    "artist": "Olivia Rodrigo",
+    "lyrics": "'Good for you, I guess you moved on really easily...",
+    "imageUrl": "./images/soami.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "Montero (Call Me By Your Name)",
+    "artist": "Lil Nas X",
+    "lyrics": "'Call me when you want, call me when you need...",
+    "imageUrl": "./images/blindinglights.jpeg"
+  }
+]
